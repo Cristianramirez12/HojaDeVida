@@ -1,0 +1,11 @@
+NOMBRE---------> Cuenta
+
+ATRIBUTTOS-----> cuenta str
+				 cedula str
+				 propietario str
+				 saldo int
+
+METODOS--------> mostrar 
+				 guardar list
+				 depositar int 
+				 consignar int
